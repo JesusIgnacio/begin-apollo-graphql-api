@@ -1,5 +1,7 @@
 @app
-begin-app
+blink-ler
+
+@static
 
 @http
 post /graphql
